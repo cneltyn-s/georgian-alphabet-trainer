@@ -1,0 +1,33 @@
+{
+  "appTitle": "Тренажер грузинского алфавита",
+  "progression": "Прогресс",
+  "learningMode": "Режим обучения",
+  "learningModeDesc": "Выберите способ изучения новых букв.",
+  "modes": {
+    "slider": "Последовательный (Слайдер)",
+    "groups": "Категории (Группы)"
+  },
+  "levels": {
+    "beginner": "Новичок",
+    "expert": "Эксперт"
+  },
+  "lettersActive": "Активно букв: {{count}}",
+  "latest": "Новая:",
+  "and": "и",
+  "textSource": "Источник текста",
+  "selectText": "Выберите текст",
+  "customText": "Свой текст...",
+  "pasteText": "Вставьте ваш текст здесь...",
+  "readingPractice": "Практика чтения",
+  "startReading": "Выберите текст чтобы начать чтение...",
+  "soundsLike": "Звучит как:",
+  "transcription": "Транскрипция:",
+  "groups": {
+    "Vowels": "Гласные",
+    "Sonorants": "Сонорные",
+    "Easy Consonants": "Простые согласные",
+    "Hushing": "Шипящие",
+    "Ejectives": "Абруптивные (резкие)",
+    "Complex/Diphthongs": "Сложные/Дифтонги"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "appTitle": "Georgian Trainer",
+  "progression": "Progression",
+  "learningMode": "Learning Mode",
+  "learningModeDesc": "Choose how you want to learn new letters.",
+  "modes": {
+    "slider": "Incremental (Slider)",
+    "groups": "Categorical (Groups)"
+  },
+  "levels": {
+    "beginner": "Beginner",
+    "expert": "Expert"
+  },
+  "lettersActive": "{{count}} letters active",
+  "latest": "Latest:",
+  "and": "and",
+  "textSource": "Text Source",
+  "selectText": "Select a text",
+  "customText": "Custom Text...",
+  "pasteText": "Paste your text here...",
+  "readingPractice": "Reading Practice",
+  "startReading": "Select a text to start reading...",
+  "soundsLike": "Sounds like:",
+  "transcription": "Transcription:",
+  "groups": {
+    "Vowels": "Vowels",
+    "Sonorants": "Sonorants",
+    "Easy Consonants": "Easy Consonants",
+    "Hushing": "Hushing",
+    "Ejectives": "Ejectives",
+    "Complex/Diphthongs": "Complex/Diphthongs"
+  }
+}
